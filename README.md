@@ -29,7 +29,7 @@ pip install torch openai whisper moviepy tkinter
 
 1. **Run the application**:
    ```sh
-   python transcript_generator.py
+   python app.py
    ```
 
 2. **Select a video/audio file** to process.
